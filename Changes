@@ -1,3 +1,5 @@
+    - Fix 'requires' directives: need 0 when no particular version is required
+
 0.05
     - Add --lowercase
     - project name cleanups
